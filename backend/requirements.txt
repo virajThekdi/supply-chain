@@ -1,0 +1,26 @@
+# Core Backend (FastAPI)
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Data Processing
+pandas
+numpy
+
+# API Utilities
+requests
+python-dotenv
+
+# Development Tools
+pytest
+
+# Date/Time
+pytz
+
+# NOTE: Optional packages (require Visual C++ Build Tools):
+# - scikit-learn (for advanced anomaly detection)
+# - chromadb (for vector database)
+# - langchain (for LLM integration)
+# - ollama (for local LLM)
+
