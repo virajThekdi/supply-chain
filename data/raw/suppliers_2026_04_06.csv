@@ -1,12 +1,12 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP_GLASS_RAW_01,DB Glass Manufacturing,Raw Glass Sheets,2026-04-06,2026-04-05,1,94.5
-SUP_GLASS_RAW_02,Premium Glass Suppliers,Raw Glass Sheets,2026-04-05,2026-04-05,0,96.2
-SUP_METAL_FRAME_01,Advanced Metal Works,Metal Frames,2026-04-07,2026-04-06,1,91.3
-SUP_METAL_FRAME_02,Global Metal Supply,Metal Frames,2026-04-05,2026-04-06,-1,88.9
-SUP_ADHESIVE_01,ChemTech Solutions,Adhesives,2026-04-06,2026-04-06,0,92.7
-SUP_ADHESIVE_02,EuroChemical,Adhesives,2026-04-04,2026-04-06,-2,89.5
-SUP_LOGISTICS_01,FastShip Global,Logistics,2026-04-06,2026-04-06,0,87.2
-SUP_LOGISTICS_02,AirCargo Express,Logistics,2026-04-07,2026-04-06,1,90.1
-SUP_LOGISTICS_03,TransGlobal,Logistics,2026-04-08,2026-04-06,2,85.4
-SUP_PACKAGING_01,EcoPack Inc,Packaging,2026-04-05,2026-04-05,0,93.8
-SUP_PACKAGING_02,Secure Packaging,Packaging,2026-04-06,2026-04-06,0,91.2
+SUP_GLASS_RAW_01,Supplier_01,Logistics,2026-04-02,2026-04-02,0,90.3
+SUP_GLASS_RAW_02,Supplier_02,Packaging,2026-04-03,2026-04-03,0,97.6
+SUP_METAL_FRAME_01,Supplier_01,Raw Materials,2026-04-06,2026-04-06,0,91.7
+SUP_METAL_FRAME_02,Supplier_02,Logistics,2026-04-06,2026-04-06,0,93.3
+SUP_ADHESIVE_01,Supplier_01,Components,2026-04-04,2026-04-02,2,96.4
+SUP_ADHESIVE_02,Supplier_02,Raw Materials,2026-04-04,2026-04-04,0,90.9
+SUP_LOGISTICS_01,Supplier_01,Components,2026-04-06,2026-04-06,0,91.2
+SUP_LOGISTICS_02,Supplier_02,Raw Materials,2026-04-05,2026-04-05,0,87.2
+SUP_LOGISTICS_03,Supplier_03,Raw Materials,2026-04-04,2026-04-03,1,89.4
+SUP_PACKAGING_01,Supplier_01,Logistics,2026-04-03,2026-04-03,0,94.1
+SUP_PACKAGING_02,Supplier_02,Logistics,2026-04-03,2026-04-03,0,98.7

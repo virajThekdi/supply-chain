@@ -1,0 +1,12 @@
+supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
+SUP_GLASS_RAW_01,Supplier_01,Logistics,2026-02-12,2026-02-12,0,91.3
+SUP_GLASS_RAW_02,Supplier_02,Packaging,2026-02-12,2026-02-12,0,92.2
+SUP_METAL_FRAME_01,Supplier_01,Components,2026-02-13,2026-02-13,0,89.2
+SUP_METAL_FRAME_02,Supplier_02,Logistics,2026-02-11,2026-02-11,0,89.1
+SUP_ADHESIVE_01,Supplier_01,Logistics,2026-02-13,2026-02-13,0,91.2
+SUP_ADHESIVE_02,Supplier_02,Logistics,2026-02-14,2026-02-14,0,91.6
+SUP_LOGISTICS_01,Supplier_01,Logistics,2026-02-13,2026-02-13,0,92.7
+SUP_LOGISTICS_02,Supplier_02,Packaging,2026-02-11,2026-02-11,0,88.7
+SUP_LOGISTICS_03,Supplier_03,Logistics,2026-02-11,2026-02-11,0,95.5
+SUP_PACKAGING_01,Supplier_01,Raw Materials,2026-02-15,2026-02-15,0,90.8
+SUP_PACKAGING_02,Supplier_02,Logistics,2026-02-11,2026-02-11,0,93.9
