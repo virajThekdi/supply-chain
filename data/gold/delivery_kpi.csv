@@ -1,2 +1,2 @@
 total_shipments,on_time_shipments,on_time_rate,avg_delay_days,delayed_count,unique_routes,report_date,load_timestamp
-1000,126,12.6,3.13,874,3,2026-04-10,2026-04-10 06:36:39.654041
+1000,160,16.0,2.86,840,3,2026-04-10,2026-04-10 08:11:10.360070
