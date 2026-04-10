@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP1,Perez PLC,Hinges,2026-01-01,2026-01-01,3,3.39
-SUP2,Ramos Group,Plastic Frame,2026-01-02,2026-01-02,4,3.41
-SUP3,Griffin-Wolf,Plastic Frame,2026-01-03,2026-01-03,4,3.94
-SUP4,Harris Group,Plastic Frame,2026-01-04,2026-01-04,2,4.31
-SUP5,"Morris, Wallace and Alexander",Hinges,2026-01-05,2026-01-05,3,4.05
-SUP6,Thompson Group,Plastic Frame,2026-01-06,2026-01-06,3,4.13
-SUP7,Brown-Morris,Hinges,2026-01-07,2026-01-07,3,3.47
-SUP8,Miranda Inc,Polycarbonate Sheet,2026-01-08,2026-01-08,4,3.89
-SUP9,King-Walker,Hinges,2026-01-09,2026-01-09,3,3.3
-SUP10,Hernandez Inc,Packaging Material,2026-01-10,2026-01-10,2,3.58
-SUP11,Rodriguez-Hill,Optical Glass Blank,2026-01-11,2026-01-11,0,3.38
-SUP12,"Wiley, Garcia and Phillips",Plastic Frame,2026-01-12,2026-01-12,1,4.53
-SUP13,Berry-Chapman,Hinges,2026-01-13,2026-01-13,3,3.79
-SUP14,"Chang, James and Pennington",Packaging Material,2026-01-14,2026-01-14,4,4.74
-SUP15,Hobbs-Cook,Lens Coating Chemical,2026-01-15,2026-01-15,3,4.36
-SUP16,"Bailey, Murphy and Camacho",Metal Frame,2026-01-16,2026-01-16,4,5.0
-SUP17,Jones PLC,Screws,2026-01-17,2026-01-17,2,4.16
-SUP18,Rosario-Walters,Polycarbonate Sheet,2026-01-18,2026-01-18,0,4.96
-SUP19,"Reese, Bailey and Jones",Optical Glass Blank,2026-01-19,2026-01-19,0,3.08
-SUP20,"Mcguire, Tucker and Mckinney",Screws,2026-01-20,2026-01-20,0,4.29
+SUP1,Yang-Sparks,Plastic Frame,2026-01-01,2026-01-01,2,3.87
+SUP2,Graves Ltd,Polycarbonate Sheet,2026-01-02,2026-01-02,1,4.21
+SUP3,Hill-Strong,Screws,2026-01-03,2026-01-03,1,4.72
+SUP4,Patrick LLC,Metal Frame,2026-01-04,2026-01-04,3,4.17
+SUP5,"Gilbert, Little and Johnson",Hinges,2026-01-05,2026-01-05,1,3.37
+SUP6,"Smith, Collins and Mays",Optical Glass Blank,2026-01-06,2026-01-06,1,3.66
+SUP7,Davis Inc,Screws,2026-01-07,2026-01-07,1,4.14
+SUP8,"Walker, Shields and Patterson",Polycarbonate Sheet,2026-01-08,2026-01-08,1,4.0
+SUP9,Elliott-Higgins,Optical Glass Blank,2026-01-09,2026-01-09,0,3.82
+SUP10,Neal-Grant,Metal Frame,2026-01-10,2026-01-10,4,3.24
+SUP11,"Robertson, Garcia and Sanders",Optical Glass Blank,2026-01-11,2026-01-11,4,3.33
+SUP12,Gonzalez-Wilson,Lens Coating Chemical,2026-01-12,2026-01-12,0,3.03
+SUP13,Young-Daniels,Polycarbonate Sheet,2026-01-13,2026-01-13,1,3.42
+SUP14,Adams and Sons,Screws,2026-01-14,2026-01-14,0,4.72
+SUP15,"Sanchez, Shaw and Wood",Polycarbonate Sheet,2026-01-15,2026-01-15,3,3.47
+SUP16,Potts and Sons,Lens Coating Chemical,2026-01-16,2026-01-16,1,3.55
+SUP17,Lewis and Sons,Lens Coating Chemical,2026-01-17,2026-01-17,2,4.68
+SUP18,Schmidt-Davis,Optical Glass Blank,2026-01-18,2026-01-18,3,3.87
+SUP19,Norris Group,Hinges,2026-01-19,2026-01-19,4,3.64
+SUP20,"Murphy, Trujillo and Fowler",Lens Coating Chemical,2026-01-20,2026-01-20,4,3.33
