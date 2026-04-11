@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP1,"Jackson, Le and Hayes",Packaging Material,2026-01-01,2026-01-01,1,3.69
-SUP2,"Juarez, Guerrero and Jones",Hinges,2026-01-02,2026-01-02,4,4.54
-SUP3,Guerrero-Kaufman,Plastic Frame,2026-01-03,2026-01-03,1,4.37
-SUP4,Gonzalez Inc,Lens Coating Chemical,2026-01-04,2026-01-04,0,4.39
-SUP5,Dudley PLC,Polycarbonate Sheet,2026-01-05,2026-01-05,2,4.09
-SUP6,Berger and Sons,Polycarbonate Sheet,2026-01-06,2026-01-06,4,3.05
-SUP7,"Santiago, Hansen and Flores",Plastic Frame,2026-01-07,2026-01-07,1,3.98
-SUP8,Miller and Sons,Packaging Material,2026-01-08,2026-01-08,2,3.55
-SUP9,Howard-Guerrero,Screws,2026-01-09,2026-01-09,4,3.11
-SUP10,Stone LLC,Plastic Frame,2026-01-10,2026-01-10,1,3.38
-SUP11,"Rosales, Potter and Powell",Hinges,2026-01-11,2026-01-11,1,3.22
-SUP12,Mayer-Davis,Optical Glass Blank,2026-01-12,2026-01-12,3,3.63
-SUP13,"Walker, Braun and Tyler",Polycarbonate Sheet,2026-01-13,2026-01-13,2,4.43
-SUP14,Perez-Snyder,Packaging Material,2026-01-14,2026-01-14,2,3.75
-SUP15,"Howard, Thomas and Vasquez",Lens Coating Chemical,2026-01-15,2026-01-15,0,4.39
-SUP16,White Group,Polycarbonate Sheet,2026-01-16,2026-01-16,1,4.0
-SUP17,Newton and Sons,Metal Frame,2026-01-17,2026-01-17,3,4.51
-SUP18,King and Sons,Packaging Material,2026-01-18,2026-01-18,3,4.96
-SUP19,King-Clark,Hinges,2026-01-19,2026-01-19,0,4.85
-SUP20,Sanchez-Dickson,Metal Frame,2026-01-20,2026-01-20,3,3.91
+SUP1,Pace PLC,Plastic Frame,2026-01-01,2026-01-01,4,3.33
+SUP2,Farmer Ltd,Lens Coating Chemical,2026-01-02,2026-01-02,0,3.41
+SUP3,Hunt-Malone,Plastic Frame,2026-01-03,2026-01-03,3,3.4
+SUP4,Young Inc,Metal Frame,2026-01-04,2026-01-04,0,4.7
+SUP5,Li and Sons,Lens Coating Chemical,2026-01-05,2026-01-05,3,3.59
+SUP6,"Reynolds, Cox and Richardson",Lens Coating Chemical,2026-01-06,2026-01-06,0,3.26
+SUP7,"Fields, Harvey and Jimenez",Screws,2026-01-07,2026-01-07,2,4.4
+SUP8,"Yates, Anderson and Owens",Packaging Material,2026-01-08,2026-01-08,3,3.42
+SUP9,Lopez-Frost,Plastic Frame,2026-01-09,2026-01-09,2,3.38
+SUP10,Johnson and Sons,Metal Frame,2026-01-10,2026-01-10,1,3.71
+SUP11,Brown Ltd,Lens Coating Chemical,2026-01-11,2026-01-11,2,4.95
+SUP12,"Rivera, Rios and Anderson",Lens Coating Chemical,2026-01-12,2026-01-12,0,4.45
+SUP13,"Foley, Young and Thompson",Optical Glass Blank,2026-01-13,2026-01-13,4,4.07
+SUP14,Keller PLC,Metal Frame,2026-01-14,2026-01-14,0,3.7
+SUP15,Oneill-Pena,Optical Glass Blank,2026-01-15,2026-01-15,4,4.9
+SUP16,Coleman-Nguyen,Metal Frame,2026-01-16,2026-01-16,0,3.47
+SUP17,Moreno and Sons,Metal Frame,2026-01-17,2026-01-17,1,4.62
+SUP18,Smith-Espinoza,Packaging Material,2026-01-18,2026-01-18,2,3.92
+SUP19,Edwards-Boone,Metal Frame,2026-01-19,2026-01-19,1,4.33
+SUP20,Taylor and Sons,Packaging Material,2026-01-20,2026-01-20,1,4.54
