@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating,supplier_performance,on_time_flag,load_timestamp
-SUP4,"Short, Campbell and Hoffman",Polycarbonate Sheet,2026-01-04,2026-01-04,3,4.17,POOR,0,2026-04-11 20:59:43.886811
-SUP10,"Taylor, Mendez and Bowers",Polycarbonate Sheet,2026-01-10,2026-01-10,4,4.2,POOR,0,2026-04-11 20:59:43.886811
-SUP5,Cook Ltd,Screws,2026-01-05,2026-01-05,3,3.49,POOR,0,2026-04-11 20:59:43.886811
-SUP17,"Savage, Bryant and Wright",Optical Glass Blank,2026-01-17,2026-01-17,3,4.37,POOR,0,2026-04-11 20:59:43.886811
-SUP19,"Campbell, Williams and Brown",Optical Glass Blank,2026-01-19,2026-01-19,4,4.91,POOR,0,2026-04-11 20:59:43.886811
-SUP11,Knight Ltd,Screws,2026-01-11,2026-01-11,2,3.26,POOR,0,2026-04-11 20:59:43.886811
-SUP15,Harding-Mejia,Packaging Material,2026-01-15,2026-01-15,0,4.99,POOR,1,2026-04-11 20:59:43.886811
-SUP3,"Meyer, Ponce and Johnson",Optical Glass Blank,2026-01-03,2026-01-03,1,4.67,POOR,0,2026-04-11 20:59:43.886811
-SUP9,"Castillo, Brown and Patrick",Packaging Material,2026-01-09,2026-01-09,0,4.16,POOR,1,2026-04-11 20:59:43.886811
-SUP18,"Marshall, Rogers and Lee",Packaging Material,2026-01-18,2026-01-18,0,4.19,POOR,1,2026-04-11 20:59:43.886811
-SUP1,Clark Ltd,Hinges,2026-01-01,2026-01-01,3,3.51,POOR,0,2026-04-11 20:59:43.886811
-SUP2,Cobb-Roberts,Polycarbonate Sheet,2026-01-02,2026-01-02,0,3.48,POOR,1,2026-04-11 20:59:43.886811
-SUP8,Rodriguez Group,Polycarbonate Sheet,2026-01-08,2026-01-08,1,4.72,POOR,0,2026-04-11 20:59:43.886811
-SUP16,"Patterson, Walker and Berry",Plastic Frame,2026-01-16,2026-01-16,2,4.45,POOR,0,2026-04-11 20:59:43.886811
-SUP20,Andrews-Brown,Metal Frame,2026-01-20,2026-01-20,0,4.37,POOR,1,2026-04-11 20:59:43.886811
-SUP6,"Ward, Henry and Yates",Polycarbonate Sheet,2026-01-06,2026-01-06,3,4.95,POOR,0,2026-04-11 20:59:43.886811
-SUP7,Quinn-Gilbert,Polycarbonate Sheet,2026-01-07,2026-01-07,2,3.29,POOR,0,2026-04-11 20:59:43.886811
-SUP12,Martinez-Jones,Lens Coating Chemical,2026-01-12,2026-01-12,0,4.6,POOR,1,2026-04-11 20:59:43.886811
-SUP14,"Gilmore, Estrada and Gray",Packaging Material,2026-01-14,2026-01-14,2,3.87,POOR,0,2026-04-11 20:59:43.886811
-SUP13,"Lawrence, Riggs and Sanchez",Plastic Frame,2026-01-13,2026-01-13,2,3.69,POOR,0,2026-04-11 20:59:43.886811
+SUP4,Johnson LLC,Polycarbonate Sheet,2026-01-04,2026-01-04,1,4.04,POOR,0,2026-04-11 21:24:30.210213
+SUP10,"Owens, Mcintosh and Mitchell",Optical Glass Blank,2026-01-10,2026-01-10,4,3.55,POOR,0,2026-04-11 21:24:30.210213
+SUP5,Espinoza Inc,Packaging Material,2026-01-05,2026-01-05,3,3.66,POOR,0,2026-04-11 21:24:30.210213
+SUP17,"Jones, Campos and Guzman",Metal Frame,2026-01-17,2026-01-17,1,3.47,POOR,0,2026-04-11 21:24:30.210213
+SUP19,"Davidson, Davis and Hall",Metal Frame,2026-01-19,2026-01-19,2,3.41,POOR,0,2026-04-11 21:24:30.210213
+SUP11,"Bowman, Harris and Martinez",Polycarbonate Sheet,2026-01-11,2026-01-11,3,4.8,POOR,0,2026-04-11 21:24:30.210213
+SUP15,"Morales, Sanchez and Gonzalez",Screws,2026-01-15,2026-01-15,1,3.22,POOR,0,2026-04-11 21:24:30.210213
+SUP3,"Rubio, Smith and Le",Hinges,2026-01-03,2026-01-03,1,3.99,POOR,0,2026-04-11 21:24:30.210213
+SUP9,Oconnor PLC,Polycarbonate Sheet,2026-01-09,2026-01-09,4,3.41,POOR,0,2026-04-11 21:24:30.210213
+SUP18,"Nguyen, Reid and Freeman",Lens Coating Chemical,2026-01-18,2026-01-18,1,3.51,POOR,0,2026-04-11 21:24:30.210213
+SUP1,Mathis and Sons,Lens Coating Chemical,2026-01-01,2026-01-01,3,3.28,POOR,0,2026-04-11 21:24:30.210213
+SUP2,Bowman-Reilly,Hinges,2026-01-02,2026-01-02,3,4.1,POOR,0,2026-04-11 21:24:30.210213
+SUP8,Farmer LLC,Plastic Frame,2026-01-08,2026-01-08,4,3.23,POOR,0,2026-04-11 21:24:30.210213
+SUP16,Williams LLC,Hinges,2026-01-16,2026-01-16,1,3.87,POOR,0,2026-04-11 21:24:30.210213
+SUP20,Mack-Burton,Metal Frame,2026-01-20,2026-01-20,0,3.69,POOR,1,2026-04-11 21:24:30.210213
+SUP6,"Irwin, Johnson and Hines",Optical Glass Blank,2026-01-06,2026-01-06,3,4.48,POOR,0,2026-04-11 21:24:30.210213
+SUP7,"Cunningham, Jones and Clark",Packaging Material,2026-01-07,2026-01-07,2,4.1,POOR,0,2026-04-11 21:24:30.210213
+SUP12,Cooper-Combs,Screws,2026-01-12,2026-01-12,4,3.27,POOR,0,2026-04-11 21:24:30.210213
+SUP14,"Johnson, Oconnor and Sharp",Polycarbonate Sheet,2026-01-14,2026-01-14,2,4.66,POOR,0,2026-04-11 21:24:30.210213
+SUP13,Clark-Ferguson,Metal Frame,2026-01-13,2026-01-13,4,4.84,POOR,0,2026-04-11 21:24:30.210213
