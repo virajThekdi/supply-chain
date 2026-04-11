@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP1,Goodman Inc,Packaging Material,2026-01-01,2026-01-01,1,4.27
-SUP2,Garcia-Simpson,Screws,2026-01-02,2026-01-02,3,4.18
-SUP3,"Garcia, Vazquez and Ray",Lens Coating Chemical,2026-01-03,2026-01-03,1,4.71
-SUP4,Dixon-Krause,Packaging Material,2026-01-04,2026-01-04,2,4.16
-SUP5,"Newman, Meyer and Romero",Screws,2026-01-05,2026-01-05,4,4.3
-SUP6,"Williams, Odom and Martinez",Packaging Material,2026-01-06,2026-01-06,3,4.69
-SUP7,Harrison-Thomas,Plastic Frame,2026-01-07,2026-01-07,0,4.54
-SUP8,Saunders Ltd,Plastic Frame,2026-01-08,2026-01-08,0,4.82
-SUP9,Johnson Ltd,Screws,2026-01-09,2026-01-09,0,3.6
-SUP10,Coleman and Sons,Hinges,2026-01-10,2026-01-10,4,3.64
-SUP11,"Fox, Rodriguez and Miller",Screws,2026-01-11,2026-01-11,3,3.78
-SUP12,"Medina, Luna and Gordon",Polycarbonate Sheet,2026-01-12,2026-01-12,2,3.49
-SUP13,Lopez-West,Packaging Material,2026-01-13,2026-01-13,0,4.44
-SUP14,Johnson Ltd,Screws,2026-01-14,2026-01-14,1,4.86
-SUP15,Anderson Ltd,Polycarbonate Sheet,2026-01-15,2026-01-15,1,4.02
-SUP16,"Anderson, Nelson and Walters",Lens Coating Chemical,2026-01-16,2026-01-16,2,4.48
-SUP17,Sanchez-Curry,Screws,2026-01-17,2026-01-17,3,3.25
-SUP18,Brady-Hoffman,Polycarbonate Sheet,2026-01-18,2026-01-18,1,3.87
-SUP19,"Reyes, Curry and Jacobs",Plastic Frame,2026-01-19,2026-01-19,0,4.4
-SUP20,Madden PLC,Screws,2026-01-20,2026-01-20,2,3.36
+SUP1,White-Rodriguez,Metal Frame,2026-01-01,2026-01-01,1,3.44
+SUP2,"Hawkins, Ray and Torres",Plastic Frame,2026-01-02,2026-01-02,1,3.08
+SUP3,Turner-Miller,Polycarbonate Sheet,2026-01-03,2026-01-03,3,4.22
+SUP4,Pace-Smith,Optical Glass Blank,2026-01-04,2026-01-04,4,3.08
+SUP5,Moreno-Williams,Optical Glass Blank,2026-01-05,2026-01-05,0,4.3
+SUP6,"Patterson, Salazar and Ferguson",Hinges,2026-01-06,2026-01-06,4,3.98
+SUP7,"Howard, Woods and Stone",Optical Glass Blank,2026-01-07,2026-01-07,3,3.99
+SUP8,Holland Ltd,Screws,2026-01-08,2026-01-08,2,4.43
+SUP9,"Medina, Rice and Cannon",Hinges,2026-01-09,2026-01-09,2,3.77
+SUP10,Jacobs Ltd,Packaging Material,2026-01-10,2026-01-10,1,3.57
+SUP11,Murray Inc,Metal Frame,2026-01-11,2026-01-11,4,3.37
+SUP12,Gardner LLC,Polycarbonate Sheet,2026-01-12,2026-01-12,0,4.24
+SUP13,Williams-Juarez,Plastic Frame,2026-01-13,2026-01-13,4,4.19
+SUP14,Vaughn Inc,Metal Frame,2026-01-14,2026-01-14,4,3.38
+SUP15,Thompson LLC,Optical Glass Blank,2026-01-15,2026-01-15,1,4.61
+SUP16,Gardner-Gonzales,Screws,2026-01-16,2026-01-16,1,3.71
+SUP17,Nguyen-Fitzgerald,Plastic Frame,2026-01-17,2026-01-17,3,4.94
+SUP18,"Russell, Palmer and Keller",Packaging Material,2026-01-18,2026-01-18,0,3.09
+SUP19,Jones-Nash,Screws,2026-01-19,2026-01-19,2,3.44
+SUP20,"Jackson, Rivera and Page",Polycarbonate Sheet,2026-01-20,2026-01-20,4,3.41
