@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP1,Moore-Kent,Hinges,2026-01-01,2026-01-01,2,3.91
-SUP2,Fowler LLC,Optical Glass Blank,2026-01-02,2026-01-02,4,3.48
-SUP3,"Phillips, Hess and Black",Metal Frame,2026-01-03,2026-01-03,2,3.93
-SUP4,Higgins-Fisher,Plastic Frame,2026-01-04,2026-01-04,0,3.25
-SUP5,Mitchell-Lopez,Screws,2026-01-05,2026-01-05,4,3.73
-SUP6,Morgan-Hughes,Optical Glass Blank,2026-01-06,2026-01-06,2,4.69
-SUP7,Hughes-Monroe,Optical Glass Blank,2026-01-07,2026-01-07,3,4.09
-SUP8,Smith PLC,Lens Coating Chemical,2026-01-08,2026-01-08,2,3.32
-SUP9,Miller-Taylor,Lens Coating Chemical,2026-01-09,2026-01-09,3,4.57
-SUP10,Porter-Blackburn,Screws,2026-01-10,2026-01-10,1,4.48
-SUP11,Christensen-Donovan,Polycarbonate Sheet,2026-01-11,2026-01-11,4,3.59
-SUP12,"Reyes, Garcia and Byrd",Optical Glass Blank,2026-01-12,2026-01-12,3,3.81
-SUP13,Todd LLC,Screws,2026-01-13,2026-01-13,3,3.43
-SUP14,Summers-Melton,Polycarbonate Sheet,2026-01-14,2026-01-14,1,4.5
-SUP15,"Moody, Cannon and Martinez",Screws,2026-01-15,2026-01-15,1,4.77
-SUP16,Cameron LLC,Plastic Frame,2026-01-16,2026-01-16,1,3.46
-SUP17,Dalton-Lee,Plastic Frame,2026-01-17,2026-01-17,3,4.77
-SUP18,Warren Group,Polycarbonate Sheet,2026-01-18,2026-01-18,4,4.07
-SUP19,Baldwin-King,Polycarbonate Sheet,2026-01-19,2026-01-19,2,4.56
-SUP20,Green-Bradford,Metal Frame,2026-01-20,2026-01-20,3,3.6
+SUP1,"Tanner, Hoffman and Hughes",Screws,2026-01-01,2026-01-01,0,3.42
+SUP2,"Gonzalez, Kemp and Choi",Polycarbonate Sheet,2026-01-02,2026-01-02,4,3.21
+SUP3,"Freeman, Kelly and Marks",Metal Frame,2026-01-03,2026-01-03,0,3.25
+SUP4,Peterson-Baker,Hinges,2026-01-04,2026-01-04,3,4.75
+SUP5,Miller LLC,Plastic Frame,2026-01-05,2026-01-05,3,4.66
+SUP6,Davis-Howard,Packaging Material,2026-01-06,2026-01-06,3,3.91
+SUP7,Graves PLC,Optical Glass Blank,2026-01-07,2026-01-07,3,4.49
+SUP8,Reid-Stephens,Metal Frame,2026-01-08,2026-01-08,4,4.91
+SUP9,Mcclain-Peters,Polycarbonate Sheet,2026-01-09,2026-01-09,3,4.43
+SUP10,Valentine LLC,Hinges,2026-01-10,2026-01-10,1,4.53
+SUP11,"Knox, Patterson and Gonzales",Screws,2026-01-11,2026-01-11,4,4.0
+SUP12,Sanders LLC,Hinges,2026-01-12,2026-01-12,1,3.04
+SUP13,"Reeves, Cameron and Lester",Plastic Frame,2026-01-13,2026-01-13,4,4.81
+SUP14,"Lynch, Tucker and Martinez",Hinges,2026-01-14,2026-01-14,1,4.51
+SUP15,Martin LLC,Screws,2026-01-15,2026-01-15,1,4.15
+SUP16,Weaver-Johnson,Optical Glass Blank,2026-01-16,2026-01-16,3,4.1
+SUP17,Marsh PLC,Optical Glass Blank,2026-01-17,2026-01-17,2,3.89
+SUP18,"Galvan, Yu and Thomas",Plastic Frame,2026-01-18,2026-01-18,4,3.92
+SUP19,"Roberts, Bell and Harris",Polycarbonate Sheet,2026-01-19,2026-01-19,2,3.28
+SUP20,"Lewis, Bailey and Sanders",Plastic Frame,2026-01-20,2026-01-20,1,3.56
