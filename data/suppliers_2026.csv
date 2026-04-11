@@ -1,21 +1,21 @@
 supplier_id,supplier_name,material_type,delivery_date,expected_date,delay_days,quality_rating
-SUP1,"Tanner, Hoffman and Hughes",Screws,2026-01-01,2026-01-01,0,3.42
-SUP2,"Gonzalez, Kemp and Choi",Polycarbonate Sheet,2026-01-02,2026-01-02,4,3.21
-SUP3,"Freeman, Kelly and Marks",Metal Frame,2026-01-03,2026-01-03,0,3.25
-SUP4,Peterson-Baker,Hinges,2026-01-04,2026-01-04,3,4.75
-SUP5,Miller LLC,Plastic Frame,2026-01-05,2026-01-05,3,4.66
-SUP6,Davis-Howard,Packaging Material,2026-01-06,2026-01-06,3,3.91
-SUP7,Graves PLC,Optical Glass Blank,2026-01-07,2026-01-07,3,4.49
-SUP8,Reid-Stephens,Metal Frame,2026-01-08,2026-01-08,4,4.91
-SUP9,Mcclain-Peters,Polycarbonate Sheet,2026-01-09,2026-01-09,3,4.43
-SUP10,Valentine LLC,Hinges,2026-01-10,2026-01-10,1,4.53
-SUP11,"Knox, Patterson and Gonzales",Screws,2026-01-11,2026-01-11,4,4.0
-SUP12,Sanders LLC,Hinges,2026-01-12,2026-01-12,1,3.04
-SUP13,"Reeves, Cameron and Lester",Plastic Frame,2026-01-13,2026-01-13,4,4.81
-SUP14,"Lynch, Tucker and Martinez",Hinges,2026-01-14,2026-01-14,1,4.51
-SUP15,Martin LLC,Screws,2026-01-15,2026-01-15,1,4.15
-SUP16,Weaver-Johnson,Optical Glass Blank,2026-01-16,2026-01-16,3,4.1
-SUP17,Marsh PLC,Optical Glass Blank,2026-01-17,2026-01-17,2,3.89
-SUP18,"Galvan, Yu and Thomas",Plastic Frame,2026-01-18,2026-01-18,4,3.92
-SUP19,"Roberts, Bell and Harris",Polycarbonate Sheet,2026-01-19,2026-01-19,2,3.28
-SUP20,"Lewis, Bailey and Sanders",Plastic Frame,2026-01-20,2026-01-20,1,3.56
+SUP1,Matthews LLC,Metal Frame,2026-01-01,2026-01-01,3,3.86
+SUP2,"Lowe, Salinas and Day",Metal Frame,2026-01-02,2026-01-02,1,4.01
+SUP3,Parsons-Marshall,Plastic Frame,2026-01-03,2026-01-03,2,3.78
+SUP4,"Montoya, Serrano and Morton",Lens Coating Chemical,2026-01-04,2026-01-04,0,4.17
+SUP5,Owens and Sons,Lens Coating Chemical,2026-01-05,2026-01-05,2,3.58
+SUP6,Harmon-Lynch,Screws,2026-01-06,2026-01-06,3,3.06
+SUP7,Estrada Ltd,Screws,2026-01-07,2026-01-07,2,4.17
+SUP8,Lee LLC,Optical Glass Blank,2026-01-08,2026-01-08,2,4.25
+SUP9,Perez Group,Packaging Material,2026-01-09,2026-01-09,4,3.33
+SUP10,Berry-Johns,Plastic Frame,2026-01-10,2026-01-10,0,4.98
+SUP11,"Sutton, Rose and Roth",Screws,2026-01-11,2026-01-11,3,4.07
+SUP12,Farley-Shelton,Hinges,2026-01-12,2026-01-12,0,3.16
+SUP13,Alexander LLC,Optical Glass Blank,2026-01-13,2026-01-13,4,4.22
+SUP14,Gallagher LLC,Optical Glass Blank,2026-01-14,2026-01-14,3,3.86
+SUP15,Patel Group,Lens Coating Chemical,2026-01-15,2026-01-15,0,4.84
+SUP16,Johnson-Mitchell,Optical Glass Blank,2026-01-16,2026-01-16,3,3.18
+SUP17,Martinez-Madden,Polycarbonate Sheet,2026-01-17,2026-01-17,1,4.74
+SUP18,West-Kim,Packaging Material,2026-01-18,2026-01-18,4,4.7
+SUP19,Vang Ltd,Packaging Material,2026-01-19,2026-01-19,1,4.23
+SUP20,Campbell-Finley,Plastic Frame,2026-01-20,2026-01-20,4,3.34
