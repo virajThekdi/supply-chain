@@ -1,107 +1,139 @@
 inventory_id,date,product_id,warehouse_id,opening_stock,produced,shipped,closing_stock,stock_level,reorder_point,stock_status,source_table,quarantine_reason,quarantined_at
-INV01371,2026-04-27 03:00:00,Optical Frame,Bangalore_WH,142,142,293,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01886,2026-05-18 14:00:00,Sunglasses,Delhi_WH,114,54,284,-116,-116,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01351,2026-04-26 07:00:00,Contact Lens,Bangalore_WH,132,53,264,-79,-79,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01269,2026-04-22 21:00:00,Contact Lens,Delhi_WH,138,73,270,-59,-59,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01165,2026-04-18 13:00:00,Contact Lens,Mumbai_WH,175,74,259,-10,-10,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01456,2026-04-30 16:00:00,Optical Frame,Delhi_WH,103,54,214,-57,-57,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01887,2026-05-18 15:00:00,Contact Lens,Bangalore_WH,105,152,281,-24,-24,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01082,2026-04-15 02:00:00,Optical Frame,Bangalore_WH,178,50,273,-45,-45,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01109,2026-04-16 05:00:00,Reading Glasses,Bangalore_WH,112,54,203,-37,-37,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01528,2026-05-03 16:00:00,Optical Frame,Delhi_WH,221,73,298,-4,-4,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01070,2026-04-14 14:00:00,Contact Lens,Mumbai_WH,153,122,289,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01254,2026-04-22 06:00:00,Contact Lens,Delhi_WH,136,101,294,-57,-57,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01538,2026-05-04 02:00:00,Reading Glasses,Bangalore_WH,114,82,204,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01420,2026-04-29 04:00:00,Contact Lens,Mumbai_WH,103,178,294,-13,-13,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01447,2026-04-30 07:00:00,Optical Frame,Bangalore_WH,123,79,243,-41,-41,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01560,2026-05-05 00:00:00,Contact Lens,Delhi_WH,104,78,184,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01020,2026-04-12 12:00:00,Prescription Lens,Mumbai_WH,125,63,252,-64,-64,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01029,2026-04-12 21:00:00,Sunglasses,Bangalore_WH,101,129,254,-24,-24,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01217,2026-04-20 17:00:00,Optical Frame,Bangalore_WH,104,112,235,-19,-19,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01190,2026-04-19 14:00:00,Contact Lens,Delhi_WH,137,81,222,-4,-4,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01938,2026-05-20 18:00:00,Prescription Lens,Delhi_WH,102,72,230,-56,-56,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01224,2026-04-21 00:00:00,Optical Frame,Bangalore_WH,180,105,294,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01742,2026-05-12 14:00:00,Sunglasses,Bangalore_WH,173,75,261,-13,-13,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01080,2026-04-15 00:00:00,Sunglasses,Mumbai_WH,133,85,243,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV01195,2026-04-19 19:00:00,Prescription Lens,Bangalore_WH,152,116,288,-20,-20,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02300,2026-06-04 20:00:00,Contact Lens,Delhi_WH,165,109,294,-20,-20,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02350,2026-06-06 22:00:00,Reading Glasses,Delhi_WH,110,50,259,-99,-99,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02602,2026-06-17 10:00:00,Optical Frame,Bangalore_WH,124,95,227,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02130,2026-05-28 18:00:00,Reading Glasses,Mumbai_WH,158,61,257,-38,-38,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02600,2026-06-17 08:00:00,Prescription Lens,Delhi_WH,148,119,275,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02626,2026-06-18 10:00:00,Optical Frame,Bangalore_WH,130,88,289,-71,-71,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02377,2026-06-08 01:00:00,Reading Glasses,Mumbai_WH,150,51,245,-44,-44,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02007,2026-05-23 15:00:00,Contact Lens,Delhi_WH,113,52,245,-80,-80,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02140,2026-05-29 04:00:00,Prescription Lens,Bangalore_WH,140,73,263,-50,-50,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02849,2026-06-27 17:00:00,Reading Glasses,Delhi_WH,123,112,250,-15,-15,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02796,2026-06-25 12:00:00,Optical Frame,Mumbai_WH,124,70,255,-61,-61,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02101,2026-05-27 13:00:00,Optical Frame,Mumbai_WH,102,89,270,-79,-79,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02852,2026-06-27 20:00:00,Prescription Lens,Bangalore_WH,109,61,188,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02555,2026-06-15 11:00:00,Reading Glasses,Bangalore_WH,129,82,236,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02652,2026-06-19 12:00:00,Prescription Lens,Mumbai_WH,109,105,290,-76,-76,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02481,2026-06-12 09:00:00,Reading Glasses,Bangalore_WH,114,103,287,-70,-70,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02087,2026-05-26 23:00:00,Prescription Lens,Bangalore_WH,141,75,248,-32,-32,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02122,2026-05-28 10:00:00,Optical Frame,Mumbai_WH,103,64,207,-40,-40,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV02713,2026-06-22 01:00:00,Sunglasses,Bangalore_WH,142,54,271,-75,-75,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04020,2026-08-15 12:00:00,Contact Lens,Bangalore_WH,119,157,285,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04402,2026-08-31 10:00:00,Optical Frame,Delhi_WH,123,123,265,-19,-19,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04484,2026-09-03 20:00:00,Optical Frame,Bangalore_WH,112,117,292,-63,-63,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04203,2026-08-23 03:00:00,Sunglasses,Bangalore_WH,131,109,291,-51,-51,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04838,2026-09-18 14:00:00,Reading Glasses,Bangalore_WH,130,72,264,-62,-62,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04623,2026-09-09 15:00:00,Contact Lens,Delhi_WH,148,92,268,-28,-28,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04532,2026-09-05 20:00:00,Optical Frame,Bangalore_WH,139,112,297,-46,-46,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04734,2026-09-14 06:00:00,Contact Lens,Mumbai_WH,116,125,243,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04305,2026-08-27 09:00:00,Prescription Lens,Mumbai_WH,128,63,250,-59,-59,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04205,2026-08-23 05:00:00,Sunglasses,Mumbai_WH,159,75,274,-40,-40,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04540,2026-09-06 04:00:00,Prescription Lens,Bangalore_WH,101,78,256,-77,-77,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04320,2026-08-28 00:00:00,Sunglasses,Bangalore_WH,117,102,236,-17,-17,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04882,2026-09-20 10:00:00,Optical Frame,Delhi_WH,124,87,220,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04063,2026-08-17 07:00:00,Prescription Lens,Bangalore_WH,107,88,278,-83,-83,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04724,2026-09-13 20:00:00,Prescription Lens,Mumbai_WH,156,58,274,-60,-60,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04827,2026-09-18 03:00:00,Contact Lens,Bangalore_WH,119,71,298,-108,-108,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04836,2026-09-18 12:00:00,Prescription Lens,Delhi_WH,119,66,210,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04190,2026-08-22 14:00:00,Prescription Lens,Bangalore_WH,100,99,296,-97,-97,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04285,2026-08-26 13:00:00,Reading Glasses,Bangalore_WH,185,63,292,-44,-44,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04487,2026-09-03 23:00:00,Contact Lens,Delhi_WH,165,101,283,-17,-17,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04825,2026-09-18 01:00:00,Prescription Lens,Delhi_WH,173,56,286,-57,-57,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04153,2026-08-21 01:00:00,Prescription Lens,Delhi_WH,109,92,209,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04294,2026-08-26 22:00:00,Contact Lens,Mumbai_WH,105,112,272,-55,-55,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04013,2026-08-15 05:00:00,Optical Frame,Delhi_WH,177,63,269,-29,-29,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04360,2026-08-29 16:00:00,Optical Frame,Bangalore_WH,103,136,274,-35,-35,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04679,2026-09-11 23:00:00,Optical Frame,Bangalore_WH,132,79,223,-12,-12,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV04865,2026-09-19 17:00:00,Prescription Lens,Bangalore_WH,103,146,269,-20,-20,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03208,2026-07-12 16:00:00,Optical Frame,Bangalore_WH,137,82,283,-64,-64,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03630,2026-07-30 06:00:00,Contact Lens,Delhi_WH,123,50,275,-102,-102,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03248,2026-07-14 08:00:00,Prescription Lens,Bangalore_WH,108,142,268,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03055,2026-07-06 07:00:00,Sunglasses,Mumbai_WH,121,64,218,-33,-33,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03065,2026-07-06 17:00:00,Reading Glasses,Bangalore_WH,103,50,213,-60,-60,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03365,2026-07-19 05:00:00,Sunglasses,Mumbai_WH,182,60,296,-54,-54,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03369,2026-07-19 09:00:00,Reading Glasses,Delhi_WH,160,129,290,-1,-1,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03399,2026-07-20 15:00:00,Contact Lens,Mumbai_WH,113,63,256,-80,-80,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03516,2026-07-25 12:00:00,Sunglasses,Delhi_WH,135,129,297,-33,-33,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03936,2026-08-12 00:00:00,Prescription Lens,Mumbai_WH,113,79,201,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03058,2026-07-06 10:00:00,Reading Glasses,Delhi_WH,110,78,198,-10,-10,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03327,2026-07-17 15:00:00,Reading Glasses,Bangalore_WH,118,117,274,-39,-39,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03860,2026-08-08 20:00:00,Sunglasses,Delhi_WH,116,93,227,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV03500,2026-07-24 20:00:00,Sunglasses,Mumbai_WH,140,70,244,-34,-34,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00110,2026-03-05 14:00:00,Sunglasses,Mumbai_WH,121,86,243,-36,-36,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00692,2026-03-29 20:00:00,Prescription Lens,Delhi_WH,115,141,288,-32,-32,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00049,2026-03-03 01:00:00,Sunglasses,Delhi_WH,146,58,227,-23,-23,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00417,2026-03-18 09:00:00,Optical Frame,Delhi_WH,106,115,282,-61,-61,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00429,2026-03-18 21:00:00,Prescription Lens,Delhi_WH,141,70,240,-29,-29,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00608,2026-03-26 08:00:00,Sunglasses,Mumbai_WH,125,94,288,-69,-69,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00983,2026-04-10 23:00:00,Sunglasses,Bangalore_WH,135,53,195,-7,-7,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00582,2026-03-25 06:00:00,Contact Lens,Mumbai_WH,158,52,250,-40,-40,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00244,2026-03-11 04:00:00,Reading Glasses,Mumbai_WH,144,109,257,-4,-4,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00184,2026-03-08 16:00:00,Optical Frame,Mumbai_WH,130,124,279,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00544,2026-03-23 16:00:00,Reading Glasses,Delhi_WH,103,77,204,-24,-24,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00685,2026-03-29 13:00:00,Prescription Lens,Delhi_WH,214,61,293,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00817,2026-04-04 01:00:00,Sunglasses,Delhi_WH,161,70,287,-56,-56,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00984,2026-04-11 00:00:00,Optical Frame,Bangalore_WH,101,100,219,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00547,2026-03-23 19:00:00,Prescription Lens,Bangalore_WH,167,53,253,-33,-33,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00325,2026-03-14 13:00:00,Optical Frame,Bangalore_WH,101,86,259,-72,-72,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00713,2026-03-30 17:00:00,Reading Glasses,Bangalore_WH,139,101,249,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00078,2026-03-04 06:00:00,Sunglasses,Bangalore_WH,129,71,219,-19,-19,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00696,2026-03-30 00:00:00,Reading Glasses,Delhi_WH,152,84,253,-17,-17,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00972,2026-04-10 12:00:00,Optical Frame,Mumbai_WH,102,143,254,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
-INV00335,2026-03-14 23:00:00,Contact Lens,Bangalore_WH,113,133,260,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-11 21:24:16.323102
+INV04582,2026-09-07 22:00:00,Contact Lens,Mumbai_WH,164,73,262,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04192,2026-08-22 16:00:00,Reading Glasses,Mumbai_WH,101,61,212,-50,-50,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04494,2026-09-04 06:00:00,Sunglasses,Delhi_WH,189,70,281,-22,-22,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04499,2026-09-04 11:00:00,Prescription Lens,Bangalore_WH,147,141,294,-6,-6,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04261,2026-08-25 13:00:00,Sunglasses,Bangalore_WH,163,54,265,-48,-48,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04388,2026-08-30 20:00:00,Optical Frame,Bangalore_WH,167,73,246,-6,-6,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04124,2026-08-19 20:00:00,Optical Frame,Bangalore_WH,188,54,252,-10,-10,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04213,2026-08-23 13:00:00,Contact Lens,Delhi_WH,134,90,249,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04612,2026-09-09 04:00:00,Prescription Lens,Delhi_WH,102,64,190,-24,-24,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04805,2026-09-17 05:00:00,Contact Lens,Bangalore_WH,110,103,290,-77,-77,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04439,2026-09-01 23:00:00,Contact Lens,Bangalore_WH,164,85,258,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04644,2026-09-10 12:00:00,Optical Frame,Mumbai_WH,136,50,268,-82,-82,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04959,2026-09-23 15:00:00,Optical Frame,Bangalore_WH,126,119,248,-3,-3,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04035,2026-08-16 03:00:00,Contact Lens,Bangalore_WH,164,113,289,-12,-12,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04048,2026-08-16 16:00:00,Sunglasses,Mumbai_WH,110,51,179,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04814,2026-09-17 14:00:00,Contact Lens,Mumbai_WH,138,141,290,-11,-11,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04933,2026-09-22 13:00:00,Contact Lens,Delhi_WH,115,85,258,-58,-58,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04935,2026-09-22 15:00:00,Optical Frame,Delhi_WH,100,163,284,-21,-21,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04237,2026-08-24 13:00:00,Reading Glasses,Mumbai_WH,107,84,289,-98,-98,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04816,2026-09-17 16:00:00,Sunglasses,Delhi_WH,149,63,218,-6,-6,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04209,2026-08-23 09:00:00,Optical Frame,Delhi_WH,122,109,265,-34,-34,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04703,2026-09-12 23:00:00,Optical Frame,Delhi_WH,134,77,225,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04825,2026-09-18 01:00:00,Sunglasses,Mumbai_WH,135,108,252,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04260,2026-08-25 12:00:00,Optical Frame,Mumbai_WH,128,81,255,-46,-46,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04978,2026-09-24 10:00:00,Prescription Lens,Mumbai_WH,123,82,269,-64,-64,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04078,2026-08-17 22:00:00,Prescription Lens,Delhi_WH,171,92,265,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04658,2026-09-11 02:00:00,Sunglasses,Mumbai_WH,106,89,289,-94,-94,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04434,2026-09-01 18:00:00,Contact Lens,Delhi_WH,142,89,278,-47,-47,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV04717,2026-09-13 13:00:00,Prescription Lens,Delhi_WH,134,130,269,-5,-5,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00753,2026-04-01 09:00:00,Optical Frame,Mumbai_WH,148,118,298,-32,-32,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00294,2026-03-13 06:00:00,Contact Lens,Bangalore_WH,186,76,298,-36,-36,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00793,2026-04-03 01:00:00,Reading Glasses,Bangalore_WH,108,106,232,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00926,2026-04-08 14:00:00,Optical Frame,Bangalore_WH,122,123,273,-28,-28,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00248,2026-03-11 08:00:00,Prescription Lens,Delhi_WH,133,81,275,-61,-61,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00432,2026-03-19 00:00:00,Contact Lens,Bangalore_WH,115,132,286,-39,-39,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00800,2026-04-03 08:00:00,Reading Glasses,Bangalore_WH,100,72,290,-118,-118,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00819,2026-04-04 03:00:00,Optical Frame,Mumbai_WH,200,58,270,-12,-12,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00117,2026-03-05 21:00:00,Prescription Lens,Mumbai_WH,158,99,282,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00132,2026-03-06 12:00:00,Contact Lens,Delhi_WH,138,85,255,-32,-32,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00856,2026-04-05 16:00:00,Reading Glasses,Mumbai_WH,116,59,190,-15,-15,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00569,2026-03-24 17:00:00,Sunglasses,Bangalore_WH,142,57,299,-100,-100,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00863,2026-04-05 23:00:00,Prescription Lens,Delhi_WH,101,157,266,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00879,2026-04-06 15:00:00,Optical Frame,Delhi_WH,123,131,265,-11,-11,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00697,2026-03-30 01:00:00,Contact Lens,Delhi_WH,115,64,263,-84,-84,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00801,2026-04-03 09:00:00,Reading Glasses,Mumbai_WH,135,100,256,-21,-21,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00995,2026-04-11 11:00:00,Sunglasses,Delhi_WH,117,79,296,-100,-100,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00666,2026-03-28 18:00:00,Contact Lens,Bangalore_WH,116,166,296,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00691,2026-03-29 19:00:00,Contact Lens,Mumbai_WH,102,51,235,-82,-82,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00215,2026-03-09 23:00:00,Optical Frame,Bangalore_WH,119,134,295,-42,-42,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00345,2026-03-15 09:00:00,Reading Glasses,Mumbai_WH,138,59,299,-102,-102,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00684,2026-03-29 12:00:00,Sunglasses,Mumbai_WH,128,77,288,-83,-83,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00576,2026-03-25 00:00:00,Contact Lens,Delhi_WH,103,63,228,-62,-62,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00610,2026-03-26 10:00:00,Sunglasses,Delhi_WH,128,106,285,-51,-51,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00784,2026-04-02 16:00:00,Contact Lens,Delhi_WH,121,77,260,-62,-62,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00409,2026-03-18 01:00:00,Sunglasses,Delhi_WH,107,57,235,-71,-71,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00786,2026-04-02 18:00:00,Contact Lens,Bangalore_WH,197,53,252,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00826,2026-04-04 10:00:00,Optical Frame,Bangalore_WH,116,143,261,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00031,2026-03-02 07:00:00,Contact Lens,Bangalore_WH,107,58,241,-76,-76,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV00933,2026-04-08 21:00:00,Prescription Lens,Mumbai_WH,134,65,280,-81,-81,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02047,2026-05-25 07:00:00,Reading Glasses,Bangalore_WH,195,57,264,-12,-12,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02525,2026-06-14 05:00:00,Prescription Lens,Bangalore_WH,107,170,289,-12,-12,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02560,2026-06-15 16:00:00,Contact Lens,Mumbai_WH,116,74,195,-5,-5,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02666,2026-06-20 02:00:00,Reading Glasses,Bangalore_WH,144,76,279,-59,-59,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02268,2026-06-03 12:00:00,Contact Lens,Mumbai_WH,104,82,258,-72,-72,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02298,2026-06-04 18:00:00,Sunglasses,Bangalore_WH,151,57,267,-59,-59,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02854,2026-06-27 22:00:00,Optical Frame,Mumbai_WH,101,141,243,-1,-1,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02892,2026-06-29 12:00:00,Contact Lens,Mumbai_WH,115,82,237,-40,-40,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02753,2026-06-23 17:00:00,Optical Frame,Mumbai_WH,170,67,267,-30,-30,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02857,2026-06-28 01:00:00,Optical Frame,Bangalore_WH,103,60,213,-50,-50,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02005,2026-05-23 13:00:00,Optical Frame,Delhi_WH,101,80,238,-57,-57,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02094,2026-05-27 06:00:00,Optical Frame,Bangalore_WH,112,56,226,-58,-58,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02937,2026-07-01 09:00:00,Optical Frame,Delhi_WH,169,89,266,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02058,2026-05-25 18:00:00,Prescription Lens,Bangalore_WH,151,97,275,-27,-27,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02643,2026-06-19 03:00:00,Sunglasses,Bangalore_WH,163,63,281,-55,-55,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02840,2026-06-27 08:00:00,Reading Glasses,Bangalore_WH,131,93,272,-48,-48,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02325,2026-06-05 21:00:00,Contact Lens,Bangalore_WH,137,78,219,-4,-4,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02568,2026-06-16 00:00:00,Prescription Lens,Bangalore_WH,154,51,253,-48,-48,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02668,2026-06-20 04:00:00,Contact Lens,Bangalore_WH,144,134,297,-19,-19,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02512,2026-06-13 16:00:00,Contact Lens,Bangalore_WH,139,98,253,-16,-16,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02083,2026-05-26 19:00:00,Prescription Lens,Bangalore_WH,108,76,232,-48,-48,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02409,2026-06-09 09:00:00,Sunglasses,Delhi_WH,134,80,253,-39,-39,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02881,2026-06-29 01:00:00,Prescription Lens,Mumbai_WH,150,73,289,-66,-66,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02037,2026-05-24 21:00:00,Sunglasses,Bangalore_WH,130,80,241,-31,-31,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02117,2026-05-28 05:00:00,Reading Glasses,Delhi_WH,127,70,268,-71,-71,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02155,2026-05-29 19:00:00,Prescription Lens,Mumbai_WH,122,114,244,-8,-8,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02042,2026-05-25 02:00:00,Reading Glasses,Delhi_WH,141,103,269,-25,-25,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02522,2026-06-14 02:00:00,Prescription Lens,Bangalore_WH,131,135,286,-20,-20,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV02526,2026-06-14 06:00:00,Optical Frame,Bangalore_WH,120,102,272,-50,-50,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01579,2026-05-05 19:00:00,Prescription Lens,Delhi_WH,222,52,288,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01912,2026-05-19 16:00:00,Prescription Lens,Mumbai_WH,116,162,279,-1,-1,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01978,2026-05-22 10:00:00,Contact Lens,Delhi_WH,154,81,253,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01535,2026-05-03 23:00:00,Optical Frame,Mumbai_WH,144,95,240,-1,-1,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01729,2026-05-12 01:00:00,Contact Lens,Bangalore_WH,156,59,217,-2,-2,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01117,2026-04-16 13:00:00,Reading Glasses,Mumbai_WH,139,87,260,-34,-34,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01167,2026-04-18 15:00:00,Reading Glasses,Mumbai_WH,164,68,253,-21,-21,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01941,2026-05-20 21:00:00,Reading Glasses,Bangalore_WH,138,102,268,-28,-28,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01066,2026-04-14 10:00:00,Contact Lens,Delhi_WH,162,119,294,-13,-13,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01658,2026-05-09 02:00:00,Optical Frame,Bangalore_WH,189,88,298,-21,-21,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01200,2026-04-20 00:00:00,Prescription Lens,Mumbai_WH,150,58,283,-75,-75,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01647,2026-05-08 15:00:00,Prescription Lens,Delhi_WH,122,80,260,-58,-58,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01705,2026-05-11 01:00:00,Prescription Lens,Bangalore_WH,138,54,202,-10,-10,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01797,2026-05-14 21:00:00,Contact Lens,Mumbai_WH,109,163,290,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01008,2026-04-12 00:00:00,Prescription Lens,Mumbai_WH,109,93,211,-9,-9,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01189,2026-04-19 13:00:00,Prescription Lens,Bangalore_WH,104,85,278,-89,-89,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01400,2026-04-28 08:00:00,Sunglasses,Mumbai_WH,137,64,251,-50,-50,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01852,2026-05-17 04:00:00,Contact Lens,Bangalore_WH,119,61,191,-11,-11,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01915,2026-05-19 19:00:00,Reading Glasses,Bangalore_WH,119,120,260,-21,-21,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01546,2026-05-04 10:00:00,Optical Frame,Delhi_WH,112,51,272,-109,-109,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01770,2026-05-13 18:00:00,Sunglasses,Delhi_WH,110,60,197,-27,-27,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01688,2026-05-10 08:00:00,Contact Lens,Bangalore_WH,192,66,282,-24,-24,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01026,2026-04-12 18:00:00,Prescription Lens,Bangalore_WH,121,86,298,-91,-91,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01515,2026-05-03 03:00:00,Optical Frame,Delhi_WH,120,91,246,-35,-35,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01970,2026-05-22 02:00:00,Sunglasses,Bangalore_WH,144,112,270,-14,-14,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01294,2026-04-23 22:00:00,Optical Frame,Mumbai_WH,211,50,278,-17,-17,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01816,2026-05-15 16:00:00,Prescription Lens,Bangalore_WH,156,82,284,-46,-46,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01037,2026-04-13 05:00:00,Prescription Lens,Delhi_WH,105,105,289,-79,-79,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01241,2026-04-21 17:00:00,Sunglasses,Delhi_WH,130,85,275,-60,-60,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01487,2026-05-01 23:00:00,Sunglasses,Delhi_WH,142,54,299,-103,-103,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV01682,2026-05-10 02:00:00,Prescription Lens,Mumbai_WH,149,74,234,-11,-11,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03461,2026-07-23 05:00:00,Prescription Lens,Delhi_WH,112,57,292,-123,-123,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03991,2026-08-14 07:00:00,Reading Glasses,Delhi_WH,127,69,271,-75,-75,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03463,2026-07-23 07:00:00,Optical Frame,Bangalore_WH,110,106,252,-36,-36,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03036,2026-07-05 12:00:00,Prescription Lens,Mumbai_WH,134,52,275,-89,-89,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03470,2026-07-23 14:00:00,Optical Frame,Bangalore_WH,150,130,291,-11,-11,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03556,2026-07-27 04:00:00,Contact Lens,Bangalore_WH,129,92,238,-17,-17,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03795,2026-08-06 03:00:00,Reading Glasses,Mumbai_WH,164,59,241,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03191,2026-07-11 23:00:00,Optical Frame,Delhi_WH,134,83,277,-60,-60,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03764,2026-08-04 20:00:00,Reading Glasses,Mumbai_WH,106,91,294,-97,-97,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03281,2026-07-15 17:00:00,Reading Glasses,Delhi_WH,128,80,288,-80,-80,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03415,2026-07-21 07:00:00,Optical Frame,Bangalore_WH,110,178,292,-4,-4,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03773,2026-08-05 05:00:00,Sunglasses,Bangalore_WH,126,133,277,-18,-18,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03124,2026-07-09 04:00:00,Optical Frame,Delhi_WH,118,79,237,-40,-40,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03330,2026-07-17 18:00:00,Sunglasses,Delhi_WH,170,52,282,-60,-60,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03354,2026-07-18 18:00:00,Sunglasses,Mumbai_WH,182,62,299,-55,-55,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03223,2026-07-13 07:00:00,Prescription Lens,Delhi_WH,113,112,284,-59,-59,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03670,2026-07-31 22:00:00,Optical Frame,Delhi_WH,163,56,275,-56,-56,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03107,2026-07-08 11:00:00,Contact Lens,Mumbai_WH,112,87,261,-62,-62,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
+INV03286,2026-07-15 22:00:00,Prescription Lens,Mumbai_WH,102,127,263,-34,-34,150,LOW,inventory,Negative closing stock,2026-04-12 09:20:58.930001
